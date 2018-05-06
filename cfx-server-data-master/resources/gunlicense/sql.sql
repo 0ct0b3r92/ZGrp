@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN  `gunlicense` int(1) NOT NULL DEFAULT '0';
